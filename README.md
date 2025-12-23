@@ -25,7 +25,7 @@
 * **⚡ Powerplay Awareness:** Automatically detects the victim's Power (e.g., *Arissa Lavigny-Duval*, *Yuri Grom*) and applies color-coded accents to Web reports and Discord embeds.
 * **🛡️ Dynamic Filtering (Friendly Fire):**
     * Exclude specific Squadrons (e.g., your own wingmates) from reports.
-    * Easy-to-use input box in the GUI (e.g., `TA0R, RNPT`).
+    * Easy-to-use input box in the GUI (e.g., `XXXX, XXXX`).
 * **🎨 Modern Dark UI:** A sleek, user-friendly interface built with Tkinter.
 * **📂 Smart Path Finding:** Automatically detects your Desktop path, even if it's synced with OneDrive.
 
